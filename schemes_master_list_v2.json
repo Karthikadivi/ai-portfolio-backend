@@ -1,0 +1,85 @@
+[
+    {
+        "scheme_name": "Nifty 50 Bees ETF",
+        "category": "Index Fund (Large-Cap)",
+        "ticker": "NIFTYBEES.NS",
+        "volatility": 0.10906030378214238,
+        "sharpe_ratio": 1.39267920643031,
+        "risk_label": "Medium"
+    },
+    {
+        "scheme_name": "Bank Bees ETF",
+        "category": "Index Fund (Sectoral)",
+        "ticker": "BANKBEES.NS",
+        "volatility": 0.13129981119593634,
+        "sharpe_ratio": 1.0693151968051697,
+        "risk_label": "High"
+    },
+    {
+        "scheme_name": "Reliance Industries",
+        "category": "Large-Cap Stock",
+        "ticker": "RELIANCE.NS",
+        "volatility": 0.20250887504948278,
+        "sharpe_ratio": 0.5260563291715729,
+        "risk_label": "High"
+    },
+    {
+        "scheme_name": "Tata Motors",
+        "category": "Auto Stock",
+        "ticker": "TATAMOTORS.NS",
+        "volatility": 0.3648589872907948,
+        "sharpe_ratio": 0.22918696213931314,
+        "risk_label": "High"
+    },
+    {
+        "scheme_name": "Infosys",
+        "category": "IT Stock",
+        "ticker": "INFY.NS",
+        "volatility": 0.23769519248522522,
+        "sharpe_ratio": 0.18868882887998084,
+        "risk_label": "High"
+    },
+    {
+        "scheme_name": "Liquid Bees ETF",
+        "category": "Liquid Debt",
+        "ticker": "LIQUIDBEES.NS",
+        "volatility": 0.011131633404094185,
+        "sharpe_ratio": 2.676401193594456,
+        "risk_label": "Very Low"
+    },
+    {
+        "scheme_name": "Gold Bees ETF",
+        "category": "Gold ETF",
+        "ticker": "GOLDBEES.NS",
+        "volatility": 0.13210329895200248,
+        "sharpe_ratio": 2.42318735882365,
+        "risk_label": "Low"
+    },
+    {
+        "scheme_name": "Bank Fixed Deposit (1 Year)",
+        "category": "Fixed Deposit",
+        "ticker": "BANKFD1Y",
+        "avg_return": 0.07,
+        "volatility": 0.0,
+        "sharpe_ratio": 0.5,
+        "risk_label": "Very Low"
+    },
+    {
+        "scheme_name": "Post Office Fixed Deposit (5 Year)",
+        "category": "Fixed Deposit",
+        "ticker": "POFD5Y",
+        "avg_return": 0.075,
+        "volatility": 0.0,
+        "sharpe_ratio": 0.5,
+        "risk_label": "Very Low"
+    },
+    {
+        "scheme_name": "Sovereign Gold Bond (SGB)",
+        "category": "Gold Bond",
+        "ticker": "SGB",
+        "avg_return": 0.08,
+        "volatility": 0.13,
+        "sharpe_ratio": 0.5,
+        "risk_label": "Very Low"
+    }
+]
